@@ -14,7 +14,6 @@
 
 const app = document.getElementById('root')
 const logo = document.createElement('img')
-// logo.src = 'https://raw.githubusercontent.com/taniarascia/sandbox/master/ghibli/logo.png'
 logo.src = 'logo.svg'
 
 const message = document.createElement('marquee')
